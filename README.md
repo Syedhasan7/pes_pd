@@ -1305,6 +1305,7 @@ Fig 20.
 
 </details>
 
+
 # Day-4
 ## Timing Modelling Using Delay Tables
 <details>
