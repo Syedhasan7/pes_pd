@@ -893,10 +893,10 @@ Fig 3.
 <summary> Lab Steps to Gitclone vsdstdcelldesign </summary>
 
 + `git clone https://github.com/nickson-jose/vsdstdcelldesign.git`
-
-
 + ` cp sky130A.tech /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/vsdstdcelldesign`
+</p>
 
+</details>
 
 ## Inception of Layout
 <details>
@@ -1532,6 +1532,10 @@ Fig 11.
 + To run CTS we need to type the command.
 + `run_cts`
 + New .v is created.
+
+</p>
+
+</details>  
 
 ## Timing Analysis with Real CLocks using OpenSTA
 
